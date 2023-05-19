@@ -1,4 +1,4 @@
-# Real-Time-Emotion-Detection-using-LSTM
+# Real Time Emotion Detection using LSTM
 The development of the Internet of Things and voice-based multimedia apps has
 allowed for the association and capture of several aspects of human behavior through
 the use of big data, which consists of trends and patterns. In the emotion of human
