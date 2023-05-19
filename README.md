@@ -19,4 +19,4 @@ models, achieving approximately 80% accuracy for weighted data and approximately
 85% accuracy for unweighted data.
 
 ## Full work Details
-Please [read]([https://github.com/RAPTOR-XR/Covid-Simulation-and-Modelling/blob/main/Simulation_of_Spreading_of_the_Covid_19_Virus.pdf](https://github.com/RAPTOR-XR/Real-Time-Emotion-Detection-using-LSTM/blob/main/RED_LSTM_real_time_emotion_detection_using_LSTM.pdf) the mentioned pdf for better understanding about the work.
+Please [read](https://github.com/RAPTOR-XR/Real-Time-Emotion-Detection-using-LSTM/blob/main/RED_LSTM_real_time_emotion_detection_using_LSTM.pdf) the mentioned pdf for better understanding about the work.
